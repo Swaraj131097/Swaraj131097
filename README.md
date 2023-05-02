@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Swaraj131097
 - 👀 I’m interested in Data Science and Machine Learning.
 - 🌱 I’m currently learning Data Science and Machine Learning.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me on my mail id .
 
 <!---
 Swaraj131097/Swaraj131097 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
